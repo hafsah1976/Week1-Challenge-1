@@ -11,10 +11,10 @@ I have learned quite a few coding etiquettes and tried to implement some, but I 
 ## Table of Contents
 
 -[Installation](#installation)
--[Usage] (#usage)
--[Credits] (#credits)
--[License] (#license)
--[Tests] (#tests)
+-[Usage](#usage)
+-[Credits](#credits)
+-[License](#license)
+-[Tests](#tests)
 
 ## Installation
 
