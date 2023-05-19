@@ -44,8 +44,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Tests
 
-View ![alt text](assets\images\Horiseon-the top.png)
-
-![Screenshot-2] (assets\images\Horiseon-the top.png)
-![Screenshot-3] (assets\images\Horiseon-bottom view.png) 
-![Image] (assets\images\Horiseon-bottom view.png)
+View ![Top of the page](/assets/images/Horiseon-the top.png).
+![Bottom View] (/assets/images/Horiseon-bottom view.png).
