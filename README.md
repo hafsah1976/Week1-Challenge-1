@@ -48,6 +48,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Tests
 [Deplopyment URL](https://hafsah1976.github.io/Week1-Challenge-1/)
-Screenshots: 
+
+### Screenshots: 
 ![Top of the page](assets/images/Horiseon-the top.png)
-![Bottom View](assets/images/Horiseon-bottom view.png)
+![Bottom View](../assets/images/Horiseon-bottom view.png)
