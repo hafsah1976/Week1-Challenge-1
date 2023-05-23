@@ -11,9 +11,13 @@ I have learned quite a few coding etiquettes and tried to implement some, but I 
 ## Table of Contents
 
 -[Installation](#installation)
+
 -[Usage](#usage)
+
 -[Credits](#credits)
+
 -[License](#license)
+
 -[Tests](#tests)
 
 ## Installation
@@ -43,6 +47,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Tests
-
-View ![Top of the page](/assets/images/Horiseon-the top.png).
-![Bottom View] (/assets/images/Horiseon-bottom view.png).
+[Deplopyment URL](https://hafsah1976.github.io/Week1-Challenge-1/)
+![Top of the page](../assets/images/Horiseon-the top.png)
+![Bottom View](../assets/images/Horiseon-bottom view.png)
