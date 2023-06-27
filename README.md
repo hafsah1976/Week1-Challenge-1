@@ -38,7 +38,7 @@ The webpage follows accessibility standards. It can be used as a building block 
 
 [Markdown Writing Format](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## MIT License
+## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -49,6 +49,10 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ## Tests
 [Deplopyment URL](https://hafsah1976.github.io/Week1-Challenge-1/)
 
-### Screenshots: 
+## Screenshots: 
+![TOP]("assets/Horiseon-bottom view.png")
+
+
+
 ![Top of the page](assets/images/Horiseon-the top.png)
 ![Bottom View](../assets/images/Horiseon-bottom view.png)
