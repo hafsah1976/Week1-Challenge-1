@@ -32,7 +32,7 @@ The URL will mostly work in all browsers. The preferred Browser is Google Chrome
 
 The webpage follows accessibility standards. It can be used as a building block in the foundation of a web development career. Horiseon would offer web services such as Search Engine Optimization, Digital Marketing, and create a positive online presence for businesses or entrepreneurs, and such.
 
-![Horiseon Marketing Agency](/assets/images/HoriseonSocial%SolutionServices.png)
+![Horiseon Marketing Agency](assets/images/HoriseonSocial-SolutionServices.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
