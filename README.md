@@ -22,7 +22,7 @@ I have learned quite a few coding etiquettes and tried to implement some, but I 
 
 ## Installation
 
-The URL will mostly work in all browsers. The preferred Browser is Google Chrome and the extension Chrome DevTools Extension to view the source code. GitHub is a cloud service for projects/repositories. You can simply visit the URL to view the repository in your browser: [GitHub](https://github.com/hafsah1976/Week1-Challenge-1)
+The URL will mostly work in all browsers. The preferred Browser is Google Chrome and the extension Chrome DevTools Extension to view the source code. GitHub is a cloud service for projects/repositories. You can simply visit the URL to view the repository in your browser: [GitHub Repo](https://github.com/hafsah1976/horiseon-marketing-agency)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
