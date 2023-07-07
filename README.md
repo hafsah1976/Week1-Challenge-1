@@ -1,6 +1,4 @@
-# Week 1 - Challenge - 1
-
-## Refactoring Code for a web service company called Horiseon
+# Week 1 - Challenge - 1 - Refactoring Code for a web service company called Horiseon
 
 My motivation is to learn as much as I can from this course, in general. My aim is to learn new skills and apply them to solve real world problems. This project is built to reach out and help users that are usually owners of businesses (regardless of their business size) to increase their online presence (promote)and be more visible in people's search.
 
@@ -32,7 +30,7 @@ The URL will mostly work in all browsers. The preferred Browser is Google Chrome
 
 The webpage follows accessibility standards. It can be used as a building block in the foundation of a web development career. Horiseon would offer web services such as Search Engine Optimization, Digital Marketing, and create a positive online presence for businesses or entrepreneurs, and such.
 
-![Horiseon Marketing Agency](assets/images/HoriseonSocial-SolutionServices.png)
+![Horiseon Marketing Agency](assets/images/HoriseonSocialSolutionServices.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
