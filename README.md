@@ -30,6 +30,8 @@ The URL will mostly work in all browsers. The preferred Browser is Google Chrome
 
 The webpage follows accessibility standards. It can be used as a building block in the foundation of a web development career. Horiseon would offer web services such as Search Engine Optimization, Digital Marketing, and create a positive online presence for businesses or entrepreneurs, and such.
 
+[Visit the Horiseon Marketing Agency](https://hafsah1976.github.io/horiseon-marketing-agency/)
+
 ![Horiseon Marketing Agency](assets/images/HoriseonSocialSolutionServices.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,10 +49,6 @@ The webpage follows accessibility standards. It can be used as a building block 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tests
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[Deplopyment URL](https://hafsah1976.github.io/Week1-Challenge-1/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
