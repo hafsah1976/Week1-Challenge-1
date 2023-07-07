@@ -28,6 +28,8 @@ The URL will mostly work in all the browsers. Preferred Browser is Google Chrome
 
 The webpage follows accessibility standards. It can be used as a building block in my foundation of web development career. Horiseon that would offer webservices such as Search Engine Optimization, Digital Marketing, and create a Positive online presence for businesses or entreprenuers, and such.
 
+![Horiseon Marketing Agency](assets/images/)
+
 ## Credits
 
 [Semantic HTML elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)
@@ -50,9 +52,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 [Deplopyment URL](https://hafsah1976.github.io/Week1-Challenge-1/)
 
 ## Screenshots: 
-![TOP]("assets/Horiseon-bottom view.png")
+
+![TOP]("assets/images/Horiseon-bottomview.png")
 
 
-
-![Top of the page](assets/images/Horiseon-the top.png)
-![Bottom View](../assets/images/Horiseon-bottom view.png)
+![Top of the page](assets/images/Horiseon-thetop.png)
+![Bottom View](../assets/images/Horiseon-bottomview.png)
